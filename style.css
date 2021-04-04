@@ -1,0 +1,22 @@
+body{
+    color:white;
+    background: #0091ca;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#camera{
+    border:2px dashed rgb(4, 247, 255);
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,#result_object_name,#result_accuracy_name{
+    color: white;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
